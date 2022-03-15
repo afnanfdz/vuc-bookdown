@@ -1,0 +1,24 @@
+---
+title: "A Book, Made in Bookdown"
+author: "[By Vuc](https://github.com/afnanfdz)"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook:
+    css: "style.css"
+    split_by: chapter
+---
+
+# Introduction {-}
+
+I'm not quite sure what I'm going to write in here. We'll see!
+
+## Libraries {-}
+
+* `bookdown`
+
+For creating this book!
+
+* `ggplot2`
+
+For plotting graphs with a tidy syntax.

@@ -1,0 +1,21 @@
+#header {
+  text-align: center;
+}
+
+/*
+  Provides line under headers
+*/
+
+.section h1,
+.section h2,
+.section h3 {
+  border-bottom: 1px solid #eaecef;
+}
+
+/*
+  recolors 'Chapter' text before header names
+*/
+
+.header-section-number {
+  color: #C0C0C0;
+}
